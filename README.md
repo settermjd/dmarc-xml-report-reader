@@ -1,2 +1,3 @@
-# dmarc-xml-report-reader
-This is a Zend Expressive module for reading one, or several, DMARC XML reports.
+# DMARC XML Report Reader
+
+This is a Zend Expressive 3.x module for reading one, or several, DMARC XML reports.
